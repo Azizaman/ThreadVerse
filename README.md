@@ -22,9 +22,9 @@ This project uses [`next/font`](https://nextjs.org/docs/app/building-your-applic
 
 Todos:>
 
-1)Add Authentication /n
-2)Add comments section /n 
-3)Add fucntionality in left and right side bar /n
+1)Add Authentication \n
+2)Add comments section \n 
+3)Add fucntionality in left and right side bar \n
 
 ## Deploy on Vercel
 
