@@ -28,3 +28,13 @@ This project uses [`next/font`](https://nextjs.org/docs/app/building-your-applic
 
 3)Add fucntionality in left and right side bar 
 
+
+##Tech Stack Used
+
+1>Next js
+
+2>prisma 
+
+3>postgress
+
+4>typescript
