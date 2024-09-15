@@ -29,7 +29,7 @@ This project uses [`next/font`](https://nextjs.org/docs/app/building-your-applic
 3)Add fucntionality in left and right side bar 
 
 
-##Tech Stack Used
+## Tech Stack Used
 
 1>Next js
 
